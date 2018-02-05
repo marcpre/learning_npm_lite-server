@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/marcpre/learning_npm_lite-server/issues"
   },
-  "homepage": "https://github.com/marcpre/learning_npm_lite-server#readme"
+  "homepage": "https://github.com/marcpre/learning_npm_lite-server#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
 }
